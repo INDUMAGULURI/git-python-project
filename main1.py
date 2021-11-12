@@ -6,6 +6,6 @@ def isPerfectSquare(x):
 	return false
 x=int(input("Enter a number"))
 if(isPerfectSquare(x)):
-	print("Yes")
+	print("Yes,it is a perfect square")
 else:
 	print("No")
